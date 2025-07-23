@@ -2,7 +2,7 @@
 
 A command-line tool for checking Formula 1 championship standings and race results in real-time.
 
-![F1 CLI Standings](screenshot1.png)
+![F1 CLI Standings](Screenshot1.png)
 
 ## Installation
 
@@ -30,7 +30,7 @@ f1 results Shanghai    # Shanghai GP results
 f1 results             # List all available races
 ```
 
-![F1 CLI Results](screenshot2.png)
+![F1 CLI Results](Screenshot2.png)
 
 ### Driver Details
 ```bash
