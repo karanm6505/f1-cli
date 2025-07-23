@@ -7,7 +7,7 @@ A command-line tool for checking Formula 1 championship standings and race resul
 ## Installation
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/karanm6505/f1-cli.git
 cd cli
 go build -o f1
 sudo cp f1 /usr/local/bin/
